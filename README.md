@@ -4,7 +4,7 @@ A collaborative list of resources for making Electronic Health Records AI-friend
  
 
 <!-- TABLE OF CONTENTS -->
-<h2 id="table-of-contents"> :book: Table of Contents</h2>
+<h2 id="table-of-contents"> :book: Table of Contents:</h2>
 <a href='#' id='top'></a>
 <details open="open">
   <summary>Table of Contents</summary>
